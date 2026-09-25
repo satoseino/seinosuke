@@ -1,3 +1,3 @@
-module github.com/kxue43/seinosuke
+module github.com/satoseino/seinosuke
 
 go 1.22
